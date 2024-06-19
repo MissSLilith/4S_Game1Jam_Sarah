@@ -11,7 +11,7 @@ public class PlayerController : MonoBehaviour
 
     float horizontal;
     float speed = 8f;
-    float jumpingPower = 12f;
+    float jumpingPower = 17f;
     bool isFacingRight = true;
 
     private void Update()
